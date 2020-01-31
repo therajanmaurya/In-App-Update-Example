@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">In-App-Update-Example</string>
+    <string name="update">Update</string>
+    <string name="later">Later</string>
+    <string name="install">Install</string>
+    <string name="app_update_available">App Update Available</string>
+    <string name="app_update_downloaded">App Update Downloaded</string>
+    <string name="app_update_available_message">We have fixed some issues and added some cool feature in this update</string>
+    <string name="downloading">Downloading…</string>
+    <string name="installing_update">Installing Updates</string>
+    <string name="in_app_update">In-App-Update</string>
+</resources>

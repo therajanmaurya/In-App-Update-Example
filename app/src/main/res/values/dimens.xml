@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="layout_padding_8dp">8dp</dimen>
+    <dimen name="layout_padding_16dp">16dp</dimen>
+    <dimen name="text_size_14sp">14sp</dimen>
+    <dimen name="material_button_corner_radius">4dp</dimen>
+    <dimen name="material_button_stroke_borderless">0dp</dimen>
+    <dimen name="material_button_stroke_bordered">1dp</dimen>
+    <dimen name="material_button_text_size">12sp</dimen>
+</resources>
