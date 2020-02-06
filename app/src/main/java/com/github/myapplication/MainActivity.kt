@@ -59,7 +59,7 @@ class MainActivity : AppCompatActivity() {
             }
             InstallStatus.INSTALLING -> {
                 tvUpdateProgress.text = getString(R.string.installing_update)
-                llDownloadUpdate.visibility = View.GONE
+                llDownloadUpdate.visibility = View.VISIBLE
                 llUpdateAction.visibility = View.GONE
                 llUpdateDownloadProgress.visibility = View.VISIBLE
             }
