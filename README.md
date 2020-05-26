@@ -6,8 +6,8 @@ Medium Blog -> https://medium.com/@therajanmaurya/support-in-app-updates-impleme
 Usage
 -----
 
-Add [InAppUpdateUtils](InAppUpdateUtils.kt) and the UI layout in Dashboard xml [activity_main.xml](activity_main.xml)
-and finally initialize InAppUpdateUtils in [MainActivity(Dashbaord Activity)](MainActivity.kt) class in your project and you are done.  
+Add [InAppUpdateUtils](https://github.com/therajanmaurya/In-App-Update-Example/blob/master/app/src/main/java/com/github/myapplication/InAppUpdateUtils.kt) and the UI layout in Dashboard xml [activity_main.xml](https://github.com/therajanmaurya/In-App-Update-Example/blob/master/app/src/main/res/layout/activity_main.xml)
+and finally initialize InAppUpdateUtils in [MainActivity(Dashbaord Activity)](https://github.com/therajanmaurya/In-App-Update-Example/blob/master/app/src/main/java/com/github/myapplication/MainActivity.kt) class in your project and you are done.  
 
 Test with internal app-sharing
 ------------------------------
